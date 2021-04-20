@@ -1,2 +1,7 @@
-# 10816018_BOTCHWAY
-This is the Front-end linked to the backend of my web application
+10816018
+BOTCHWAY KELVIN NII ADJEI
+0541308706
+
+
+
+                 This is the front-end and back-end connected
